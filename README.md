@@ -1,4 +1,5 @@
-#  ![image](https://user-images.githubusercontent.com/35774039/183364094-080dca5e-b636-4fab-b9c9-4df1e36c8434.png)
+#   ![image](https://user-images.githubusercontent.com/35774039/183364198-9c164f64-cc71-4715-ac06-d507d36da873.png)
+
 
 and an adaptive fuzzy neurological reasoning system with medical imaging using magnetic resonance imaging (magnetic resonance imaging) to aid in the diagnosis of strokes , *farkadadnan
 
