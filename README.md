@@ -72,9 +72,12 @@ Normally, there are five main steps for brain stroke detection as shown in Figur
 # U-Net: Image Segmentation Network‏
 
 ![u-net-x](https://user-images.githubusercontent.com/35774039/183381218-4fa2ab07-837f-4cc2-a37c-ce711e3e0bc6.png)
+![expert-vs-unet](https://user-images.githubusercontent.com/35774039/183381387-b18cdb5c-acda-42c4-9db4-107aa0a7f38c.jpeg)
 
 
-
+-  Frontiers‏
+Frontiers | Residual Block Based Nested U-Type Architecture for Multi-Modal Brain Tumor Image Segmentation‏
+![fnins-16-832824-g009](https://user-images.githubusercontent.com/35774039/183381532-85063cbb-b3f0-4145-886a-a702f55cf9b8.jpg)
 
 
 #  ![image](https://user-images.githubusercontent.com/35774039/183363885-51ffc486-b680-4768-a27d-ad343862dd28.png)
