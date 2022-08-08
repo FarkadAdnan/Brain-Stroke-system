@@ -1,7 +1,6 @@
 #   ![image](https://user-images.githubusercontent.com/35774039/183364198-9c164f64-cc71-4715-ac06-d507d36da873.png)
 
-#  U-Net
-and an adaptive fuzzy neurological reasoning system with medical imaging using magnetic resonance imaging (magnetic resonance imaging) to aid in the diagnosis of strokes , *farkadadnan
+ and an adaptive fuzzy neurological reasoning system with medical imaging using magnetic resonance imaging (magnetic resonance imaging) to aid in the diagnosis of strokes , *farkadadnan
 
 - https://linktr.ee/farkadadnan
 
@@ -31,6 +30,12 @@ In 2018, 1 in every six deaths from cardiovascular disease was due to stroke. So
 
 - في عام 2018 ، كانت حالة واحدة من كل ست وفيات ناجمة عن أمراض القلب والأوعية الدموية بسبب السكتة الدماغية. يصاب شخص ما في الولايات المتحدة بسكتة دماغية كل 40 ثانية. كل 4 دقائق يموت شخص بسكتة دماغية. كل عام ، يصاب أكثر من 795000 شخص في الولايات المتحدة بسكتة دماغية. حوالي 610،000 من هذه السكتات الدماغية الأولى أو الجديدة. السكتة الدماغية هي سبب رئيسي للإعاقة الخطيرة طويلة الأمد. تقلل السكتة الدماغية من الحركة لدى أكثر من نصف الناجين من السكتات الدماغية في سن 65 وما فوق.
 ![z](https://user-images.githubusercontent.com/35774039/183362305-29bffbe8-03b1-4cd1-b0c6-bc21f06c3b20.PNG)
+#  U-Net
+![1_f7YOaE4TWubwaFF7Z1fzNw](https://user-images.githubusercontent.com/35774039/183380941-6db54ee4-06a6-4b2f-adcc-28e7296febfa.png)
+
+
+
+
 
 # Machine Learning for Stroke Prediction
 
@@ -63,6 +68,13 @@ Normally, there are five main steps for brain stroke detection as shown in Figur
 ![a (5)](https://user-images.githubusercontent.com/35774039/183362860-9291972f-ca9b-4e53-abab-9c716223f1e3.PNG)
 ![a (6)](https://user-images.githubusercontent.com/35774039/183362861-bf07110c-ca96-4b55-a3b9-233df5c6986e.PNG)
 ![a (7)](https://user-images.githubusercontent.com/35774039/183362863-bc2da834-fb7d-4f4f-aa24-84b1a4f33fa1.PNG)
+
+# U-Net: Image Segmentation Network‏
+
+![u-net-x](https://user-images.githubusercontent.com/35774039/183381218-4fa2ab07-837f-4cc2-a37c-ce711e3e0bc6.png)
+
+
+
 
 
 #  ![image](https://user-images.githubusercontent.com/35774039/183363885-51ffc486-b680-4768-a27d-ad343862dd28.png)
